@@ -40,6 +40,6 @@
 </div>
 
 ###
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 ### Hacktoberfest 23'
 ![image](https://github.com/Karan-Palan/Karan-Palan/assets/143683619/fb8e32fa-9cfa-47e0-a9e0-652ef39ce9f1)
