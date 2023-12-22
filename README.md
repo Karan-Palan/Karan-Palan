@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
+### Gists - https://gist.github.com/Karan-Palan
+
 ###
 
 <div align="left">
